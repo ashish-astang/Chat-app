@@ -74,7 +74,7 @@ Start the Client
 
 
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![new grp](https://github.com/user-attachments/assets/512ca87e-d86d-4ec6-9785-00dfff7a0372)
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
