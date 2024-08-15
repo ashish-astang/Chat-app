@@ -68,7 +68,11 @@ Start the Client
 
 ![mainscreen](https://github.com/user-attachments/assets/41bec868-c71b-45fd-9b5c-44b9e1763aa9)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+
+![search](https://github.com/user-attachments/assets/8b3d056e-cece-426f-bf80-b9f9032b99e9)
+
+
+
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
 ### Notifications 
