@@ -80,7 +80,9 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![profile](https://github.com/user-attachments/assets/44642c9e-95b1-44ef-8898-671e68d330b0)
+
+
 ## Made By
 
 - [Ashish Astang](https://github.com/ashish-astang)
