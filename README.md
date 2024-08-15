@@ -78,7 +78,8 @@ Start the Client
 ### Notifications 
 ![group + notif](https://github.com/user-attachments/assets/03c84dd1-075f-48a7-97ad-17753ec9e7e4)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![add rem](https://github.com/user-attachments/assets/29f988c6-0f95-4cab-8aee-9b31ab10efee)
+
 ### View Other user Profile
 ![profile](https://github.com/user-attachments/assets/44642c9e-95b1-44ef-8898-671e68d330b0)
 
